@@ -1,2 +1,1 @@
-# aurora-now
-privacy policy 
+
